@@ -1,2 +1,2 @@
-# Number-Guesser
-Want to impress your friends? Try this app :)
+# Number Guess Game
+Guess a number between 1 and 10.
